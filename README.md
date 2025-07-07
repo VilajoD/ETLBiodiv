@@ -48,6 +48,25 @@ Ce projet personnel met en œuvre un pipeline de données complet pour l’analy
 
 ---
 
+## 📁 Arborescence du projet
+.
+├── app
+│   ├── Files
+│   	  └── Tous les fichiers JSON à traiter
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── schema.py
+│   ├── loadData.py
+│   └── database.py
+├── docker-compose.yml
+├── requirements.txt
+├── README.md
+├── Tableau_de_bord_Power_BI.pbix
+└── CapturePowerBI.png
+
+---
+
 ## 🚀 Lancer le projet
 
 1. Cloner le dépôt :
@@ -65,22 +84,3 @@ docker-compose up
 
 Swagger UI : http://localhost:8000/docs
 
-
----
-
-## 📁 Arborescence du projet
-.
-├── app
-│   ├── Files
-│   	  └── Tous les fichiers JSON à traiter
-│   ├── __init__.py
-│   ├── main.py
-│   ├── models.py
-│   ├── schema.py
-│   ├── loadData.py
-│   └── database.py
-├── docker-compose.yml
-├── requirements.txt
-├── README.md
-├── Tableau_de_bord_Power_BI.pbix
-└── CapturePowerBI.png
