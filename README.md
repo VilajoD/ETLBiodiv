@@ -6,7 +6,7 @@ Ce projet personnel met en œuvre un pipeline de données complet pour l’analy
 
 - Collecter des données publiques sur les observations d’animaux en Île-de-France
 - Construire un pipeline de traitement et de visualisation
-- Mettre en pratique des outils modernes de la data (ETL, API, Docker, DataViz)
+- Mettre en pratique des outils modernes de la data (ETL, API, Docker, PowerBI)
 
 ---
 
