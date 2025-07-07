@@ -68,7 +68,7 @@ Swagger UI : http://localhost:8000/docs
 
 ---
 
-📁 Arborescence du projet
+## 📁 Arborescence du projet
 .
 ├── app
 │   ├── Files
